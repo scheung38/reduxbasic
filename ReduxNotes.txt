@@ -1,0 +1,9 @@
+Redux
+
+1. Store needs reducer, state
+
+2. Reducer needs state, action
+
+3. Subscribe
+
+4. Dispatch
